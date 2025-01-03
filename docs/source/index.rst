@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Nổ Hũ Đổi Thưởng - Chuyên Trang Review Cổng Game Uy Tín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nohu <https://nohudoithuong.asia/>`_ - nohudoithuong.asia là trang web chuyên tổng hợp thông tin về các cổng game đổi thưởng uy tín, với các bài đánh giá chi tiết, nhanh chóng và chính xác, giúp người chơi lựa chọn cổng game phù hợp. Nohu liên tục cập nhật link tải các tựa game quay hũ, game bài, bắn cá đổi thưởng, cùng thông tin sự kiện, mini game tặng code, kinh nghiệm và hướng dẫn chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Hoạt động độc lập với cam kết đánh giá khách quan, Nohu hướng tới mục tiêu trở thành trang thông tin hàng đầu trong lĩnh vực này. Người chơi cần liên hệ trực tiếp với cổng game để tham gia, và mọi thông tin cá nhân được bảo mật an toàn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 13 Đường số 1, KP 9, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0899565215. 
 
-.. toctree::
+Email: info@nohudoithuong.asia. 
 
-   usage
-   api
+Website: https://nohudoithuong.asia/ 
+
+#nohu #nohudoithuong #trangchunohudoithuong #dangkynohudoithuong #linknohu
